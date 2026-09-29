@@ -1,0 +1,4 @@
+escenario,solicitudes,factor_demanda,servidores_evaluados,p95,p99,throughput,utilizacion_porcentaje,errores,tasa_errores_porcentaje,cumple_sla
+baja,500,0.75,2,9.1398,10.9103,0.2601,54.01,0,0.0,SI
+media,1000,1.0,2,12.1818,15.7373,0.3142,65.19,13,1.3,NO
+alta,2000,2.0,2,1143.5842,1194.289,0.4808,99.89,1987,99.35,NO

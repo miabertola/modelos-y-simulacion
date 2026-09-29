@@ -1,0 +1,4 @@
+escenario,servidores_recomendados,p95_con_capacidad_recomendada,tasa_errores_porcentaje
+baja,2,9.1398,0.0
+media,3,7.9712,0.0
+alta,4,8.6971,0.0
