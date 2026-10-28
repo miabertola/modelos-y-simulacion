@@ -1,7 +1,5 @@
 # Práctica 9 · Diseño de experimentos
-
-Contenido de la carpeta "Práctica 9":
-
+INFORME PRÁCTICA 9
 - Informe breve con supuestos, resultados, interpretación y limitaciones (INFORME - PRACTICA 9)
 - Código completo a partir de practica_09_diseno_experimental.py
 - Respuestas a las preguntas para interpretar y desafío adicional
