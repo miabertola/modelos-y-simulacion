@@ -1,7 +1,6 @@
 # Práctica 8 · Riesgo y viabilidad
 
-Contenido de la carpeta "Práctica 8":
-
+INFORME PRÁCTICA 8
 - Informe breve con supuestos, resultados, interpretación y limitaciones (INFORME - PRACTICA 8)
 - Código completo a partir de practica_08_riesgo_viabilidad.py
 - Respuestas a las preguntas para interpretar y desafío adicional
