@@ -1,0 +1,3 @@
+regla,latencia_promedio,p95,espera_alta,espera_normal_promedio
+fifo,5.333333333333333,6.0,5.0,1.5
+prioridad,4.666666666666667,6.699999999999999,2.0,2.0

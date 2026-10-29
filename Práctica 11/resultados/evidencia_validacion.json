@@ -1,0 +1,48 @@
+{
+  "origen_referencia": "Sintética, calculada manualmente; no son datos reales",
+  "alcance": "Cola FIFO de un servidor en los casos de referencia",
+  "criterio": "Errores absolutos de inicio y fin <= tolerancia",
+  "tolerancia": 1e-09,
+  "factor_calibrado": 1.25,
+  "pruebas_manual": {
+    "prueba_1": true,
+    "prueba_2": true,
+    "prueba_3": true
+  },
+  "infracciones_invariantes": [],
+  "comparacion": [
+    {
+      "conjunto": "calibracion",
+      "etapa": "antes",
+      "factor": 1.0,
+      "mae_fin": 0.8125,
+      "cumple_tolerancia": false
+    },
+    {
+      "conjunto": "calibracion",
+      "etapa": "despues",
+      "factor": 1.25,
+      "mae_fin": 0.0,
+      "cumple_tolerancia": true
+    },
+    {
+      "conjunto": "validacion",
+      "etapa": "antes",
+      "factor": 1.0,
+      "mae_fin": 0.75,
+      "cumple_tolerancia": false
+    },
+    {
+      "conjunto": "validacion",
+      "etapa": "despues",
+      "factor": 1.25,
+      "mae_fin": 0.0,
+      "cumple_tolerancia": true
+    }
+  ],
+  "limitaciones": [
+    "No demuestra correspondencia con una plataforma real",
+    "Sin fallas, abandonos, reintentos ni tiempos de traslado",
+    "La prioridad puede postergar solicitudes normales"
+  ]
+}

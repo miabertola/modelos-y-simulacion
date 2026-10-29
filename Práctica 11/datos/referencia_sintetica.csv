@@ -1,0 +1,9 @@
+conjunto,id,llegada,servicio_base,inicio_referencia,fin_referencia
+calibracion,1,0,2,0,2.5
+calibracion,2,1,2,2.5,5
+calibracion,3,4,1,5,6.25
+calibracion,4,8,2,8,10.5
+validacion,1,0,1,0,1.25
+validacion,2,0.5,3,1.25,5
+validacion,3,3,2,5,7.5
+validacion,4,10,1,10,11.25

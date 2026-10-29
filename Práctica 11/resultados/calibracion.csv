@@ -1,0 +1,5 @@
+conjunto,etapa,factor,mae_fin,cumple_tolerancia
+calibracion,antes,1.0,0.8125,False
+calibracion,despues,1.25,0.0,True
+validacion,antes,1.0,0.75,False
+validacion,despues,1.25,0.0,True
