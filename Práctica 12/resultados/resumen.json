@@ -1,0 +1,43 @@
+{
+  "semilla": 2026,
+  "base": {
+    "cantidad_train": 80,
+    "cantidad_test": 20,
+    "intercepto": 103.2514208535361,
+    "pendiente": 3.9074305242375567,
+    "ultimo_valor_train": 441.5040475793219,
+    "mae_baseline": 25.305124744629676,
+    "mae_regresion": 18.766763344621655
+  },
+  "cambio_regimen": {
+    "salto": 150,
+    "cantidad_train": 80,
+    "cantidad_test": 20,
+    "intercepto": 103.2514208535361,
+    "pendiente": 3.9074305242375567,
+    "ultimo_valor_train": 441.5040475793219,
+    "mae_baseline": 165.92353284048625,
+    "mae_regresion": 154.4611276470107
+  },
+  "comparacion_semillas": {
+    "cantidad_semillas": 100,
+    "semilla_inicial": 2026,
+    "semilla_final": 2125,
+    "baseline": {
+      "mae_promedio": 26.813695851130646,
+      "desvio_mae": 4.255078847271164,
+      "mae_minimo": 20.49693791290447,
+      "mae_maximo": 43.81684584381799
+    },
+    "regresion": {
+      "mae_promedio": 17.491821785037217,
+      "desvio_mae": 1.6714912102837594,
+      "mae_minimo": 12.809450266302676,
+      "mae_maximo": 21.740117098173766
+    },
+    "victorias_regresion": 100,
+    "victorias_baseline": 0,
+    "empates": 0,
+    "reduccion_mae_promedio_porcentaje": 34.765345731705075
+  }
+}
